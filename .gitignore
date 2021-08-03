@@ -1,0 +1,10 @@
+# Compiled files
+target/
+  # Java
+*.class
+  # IntelliJ
+.idea
+.project/*
+.ijwb
+# Mac OS baggage
+.DS_Store
